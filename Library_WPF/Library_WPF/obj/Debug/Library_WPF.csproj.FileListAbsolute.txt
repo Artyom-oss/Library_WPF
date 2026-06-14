@@ -1,0 +1,15 @@
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.csproj.AssemblyReference.cache
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\MainWindow.g.cs
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\App.g.cs
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF_MarkupCompile.cache
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\bin\Debug\Library_WPF.exe.config
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\bin\Debug\Library_WPF.exe
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\bin\Debug\Library_WPF.pdb
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\MainWindow.baml
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.g.resources
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.Properties.Resources.resources
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.csproj.GenerateResource.cache
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.csproj.CoreCompileInputs.cache
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.exe
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.pdb
+D:\Users\днс\source\repos\Library_WPF\Library_WPF\obj\Debug\Library_WPF.exe.config
